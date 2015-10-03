@@ -7,3 +7,7 @@ staging area is the middle place between working directory and repository
 it offers a value of letting me make changes such as adding comments 
 before turn it into a commit.
 
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+
