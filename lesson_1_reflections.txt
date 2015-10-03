@@ -1,0 +1,29 @@
+when compare two files, we can recognise the error by 
+recogniting the newly typed code. Bug exists mainly in new codes.
+
+What do you think are the pros and cons of manually choosing when to 
+create a commit, like you do in Git, vs having versions automatically 
+saved, like Google Docs does?
+Pros: the breakpoints are logical, it is easier to for me to understand 
+what was happening when i refered to it later
+cons: i may forgot to create commit.
+
+Why do you think some version control systems, like Git, allow saving 
+multiple files in one commit, while others, like Google Docs, treat each 
+file separately?
+because git provides version control for documents which are inter-
+related, for example, coding an app; while documents in Google Docs for 
+example, are not.
+
+How can you use the commands git log and git diff to view the history of 
+files?
+git log --stat can help u see how the files have changed. git diff help 
+me to compare different commits.
+
+How might using version control make you more confident to make changes 
+that could break something?
+because you know you can always go back to the previous version
+
+Now that you have your workspace set up, what do you want to try using 
+Git for?
+continue the udacity lesson
