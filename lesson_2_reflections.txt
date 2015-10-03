@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+everything is recorded. It is for future use.
