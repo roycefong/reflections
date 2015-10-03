@@ -1,2 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 everything is recorded. It is for future use.
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+staging area is the middle place between working directory and repository
+it offers a value of letting me make changes such as adding comments 
+before turn it into a commit.
+
