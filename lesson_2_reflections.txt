@@ -9,5 +9,24 @@ before turn it into a commit.
 
 How can you use the staging area to make sure you have one commit per 
 logical change?
+by a *, I can know I have not commited.
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+when i want to make different versions for the project and not yet want 
+changes to be official. 
+
+How do the diagrams help you visualize the branch structure?
+by making we understand which commits are reachable in certain branches.
+
+What is the result of merging two branches together? Why do we represent 
+it in the diagram the way we do?
+they become one branch. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+pros: won't forget to merge
+cons: the computer may merge them into the way that you dun want
+
 
 
